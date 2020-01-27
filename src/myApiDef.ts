@@ -1,4 +1,4 @@
-import { apiDef, apiHost } from "@mfreydl/toyhauler-api-framework/dist";
+import { apiDef, apiHost } from "@mfreydl/toyhauler-api-framework";
 
 export class myApiDef extends apiDef {
 

@@ -64,3 +64,4 @@ typings/
 bin
 dist
 submodules
+.thaul-user
